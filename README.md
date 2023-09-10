@@ -6,3 +6,4 @@
 | Splits a binary into smaller chunks to test against AV to find static identifier string           | [ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)                                      |
 | PowerShell obfuscation (in Japanese)                                                              | [Link](https://perl-users.jp/articles/advent-calendar/2010/sym/11)                             |
 | Abusing Windows Library Files for Persistence                                                     | [F-Secure Blog](https://blog.f-secure.com/abusing-windows-library-files-for-persistence/)      |
+| Bypassing EDRs                                                                                    | [Link](https://vanmieghem.io/blueprint-for-evading-edr-in-2022/)                               |
